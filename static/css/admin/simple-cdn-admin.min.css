@@ -1,0 +1,55 @@
+input.medium-text {
+	width: 10em;
+}
+
+table.widefat.files {
+	width: auto;
+}
+
+.existing-files th {
+	display: none;
+}
+
+.existing-files > td {
+	padding: 0;
+}
+
+.existing-files table td {
+	padding: 10px;
+}
+
+.existing-files table thead td {
+	font-weight: bold;
+}
+
+.existing-files table tbody tr td {
+	border-bottom: 1px solid #eee;
+}
+
+.existing-files table tbody tr:last-child td {
+	border-bottom: none;
+} 
+
+.existing-files table .deregister,
+.existing-files table .in-footer {
+	text-align: center;
+}
+
+.form-table td .add-button {
+	margin-top: 0.5em;
+}
+
+#simple-cdn-settings {
+	max-width: 710px;
+	min-width: 400px;
+	float: left;
+}
+
+#simple-cdn-sidebar {
+	width: 260px;
+	float: left;
+}
+
+.clear{
+	clear: both;
+}
